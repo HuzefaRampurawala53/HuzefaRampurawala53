@@ -39,9 +39,7 @@
 <a href="https://github.com/HuzefaRampurawala53/office-alert">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzefaRampurawala53&repo=office-alert&theme=tokyonight&hide_border=true" width="48%"/>
 </a>
-<a href="https://github.com/Husaink04/AssetOrbit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Husaink04&repo=AssetOrbit&theme=tokyonight&hide_border=true" width="48%"/>
-</a>
+
 
 <a href="https://github.com/HuzefaRampurawala53/Carkie">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzefaRampurawala53&repo=Carkie&theme=tokyonight&hide_border=true" width="48%"/>
