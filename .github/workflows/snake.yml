@@ -29,4 +29,4 @@ jobs:
           commit_message: "chore: Update contribution snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+
