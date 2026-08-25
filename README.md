@@ -39,9 +39,6 @@
 <a href="https://github.com/HuzefaRampurawala53/office-alert">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzefaRampurawala53&repo=office-alert&theme=tokyonight&hide_border=true" width="48%"/>
 </a>
-<a href="https://github.com/Husaink04/AssetOrbit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Husaink04&repo=AssetOrbit&theme=tokyonight&hide_border=true" width="48%"/>
-</a>
 
 <a href="https://github.com/HuzefaRampurawala53/Carkie">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzefaRampurawala53&repo=Carkie&theme=tokyonight&hide_border=true" width="48%"/>
@@ -80,48 +77,73 @@
 
 ## 🧠 Currently Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=🤖+Exploring+Machine+Learning...;🧠+Neural+Networks+%26+Deep+Learning;📊+Feature+Engineering+%26+Model+Training;🔬+Scikit-Learn+%7C+TensorFlow+%7C+PyTorch" alt="Learning SVG" />
+<div align="center">
+
+<h3>🤖 AI & Machine Learning Roadmap</h3>
 
 <br/>
 
-| Skill | Progress | Status |
-|-------|----------|--------|
-| 🐍 Python for ML | `██████░░░` 30% | 🟡 Growing |
-| 📊 Pandas & NumPy | `███████████░░░░` 75% | 🟢 Solid |
-| 📈 Matplotlib & Visualization | `█████████░░░░░░` 60% | 🟡 Growing |
-| 🤖 Machine Learning (Scikit-Learn) | `██████░░░░░░░░░` 40% | 🔥 Active |
-| 🧠 Deep Learning (TensorFlow/PyTorch) | `███░░░░░░░░░░░░` 20% | 🚀 Just Started |
-| 🌐 LLMs & Generative AI | `██░░░░░░░░░░░░░` 15% | 🚀 Just Started |
+🐍 **Python for ML** — 80%
+
+![80%](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=00D4FF)
+
+📊 **Pandas & NumPy** — 75%
+
+![75%](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=00D4FF)
+
+📈 **Matplotlib & Visualization** — 60%
+
+![60%](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9900&successColor=F97316)
+
+🤖 **Machine Learning (Scikit-Learn)** — 40%
+
+![40%](https://geps.dev/progress/40?dangerColor=800000&warningColor=ff9900&successColor=F97316)
+
+🧠 **Deep Learning (TensorFlow / PyTorch)** — 20%
+
+![20%](https://geps.dev/progress/20?dangerColor=800000&warningColor=ff9900&successColor=A855F7)
+
+🌐 **LLMs & Generative AI** — 15%
+
+![15%](https://geps.dev/progress/15?dangerColor=800000&warningColor=ff9900&successColor=A855F7)
 
 <br/>
 
 <img src="https://img.shields.io/badge/Goal-AI%20Engineer-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Focus-Machine%20Learning-00D4FF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Next-Deep%20Learning-A855F7?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
----
+</div>
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=HuzefaRampurawala53&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HuzefaRampurawala53&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=HuzefaRampurawala53&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzefaRampurawala53&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
 
+</div>
 ---
 
 ## 🏆 GitHub Trophies
 
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=HuzefaRampurawala53&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuzefaRampurawala53&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
+</div>
 ---
 
 ## 🐍 Contribution Snake
