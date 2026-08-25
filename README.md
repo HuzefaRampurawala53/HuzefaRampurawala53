@@ -3,8 +3,8 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Huzefa&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Building%20Today%20%7C%20Shaping%20AI%20Tomorrow&descAlignY=62&descSize=18" width="100%"/>
 
-<!-- Profile Picture -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z5Z3M4MHZhaTExbTNnZDhwanNlYmRvYzEzc3FxbjZ5MnlqNjJocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6n63YvOPzGIpF5yd1Z/giphy.gif" width="160" style="border-radius:50%; border: 4px solid #00D4FF; box-shadow: 0 0 25px #00D4FF;"/>
+<!-- Profile GIF -->
+<img src="https://media.giphy.com/media/6n63YvOPzGIpF5yd1Z/giphy.gif" width="160"/>
 
 <br/>
 
@@ -26,11 +26,11 @@
 <br/>
 
 <!-- Social Badges -->
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/huzefa-rampurawala-5553132a3?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/huzefa-rampurawala-5553132a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/HuzefaRampurawala53"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:rampurawalahuzefa6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-----
+---
 
 ## 🚀 Featured Projects
 
@@ -38,6 +38,9 @@
 
 <a href="https://github.com/HuzefaRampurawala53/office-alert">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzefaRampurawala53&repo=office-alert&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+<a href="https://github.com/Husaink04/AssetOrbit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Husaink04&repo=AssetOrbit&theme=tokyonight&hide_border=true" width="48%"/>
 </a>
 
 <a href="https://github.com/HuzefaRampurawala53/Carkie">
@@ -117,6 +120,8 @@
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -129,6 +134,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzefaRampurawala53&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
 
 </div>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -144,6 +150,7 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuzefaRampurawala53&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -175,11 +182,9 @@
   <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/huzefa-rampurawala-5553132a3?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/huzefa-rampurawala-5553132a3">
   <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
-
 &nbsp;
 <a href="https://github.com/HuzefaRampurawala53">
   <img src="https://img.shields.io/badge/⭐%20Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -210,16 +215,4 @@
 
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-[![An image of @huzefarampurawala53's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/huzefarampurawala53)](https://holopin.io/@huzefarampurawala53)
+[![An image of @huzefarampurawala53's Holopin badges](https://holopin.me/huzefarampurawala53)](https://holopin.io/@huzefarampurawala53)
