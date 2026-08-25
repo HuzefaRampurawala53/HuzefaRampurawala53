@@ -180,10 +180,9 @@ Next.js • React • Node.js
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzefaRampurawala53&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HuzefaRampurawala53&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%"/>
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
