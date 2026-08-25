@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Huzefa&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Building%20Today%20%7C%20Shaping%20AI%20Tomorrow&descAlignY=62&descSize=18" width="100%"/>
 
 <!-- Profile Picture -->
-<img src="[https://postimg.cc/RqQphT5q](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z5Z3M4MHZhaTExbTNnZDhwanNlYmRvYzEzc3FxbjZ5MnlqNjJocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6n63YvOPzGIpF5yd1Z/giphy.gif)" width="160" style="border-radius:50%; border: 4px solid #00D4FF; box-shadow: 0 0 25px #00D4FF;"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z5Z3M4MHZhaTExbTNnZDhwanNlYmRvYzEzc3FxbjZ5MnlqNjJocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6n63YvOPzGIpF5yd1Z/giphy.gif)" width="160" style="border-radius:50%; border: 4px solid #00D4FF; box-shadow: 0 0 25px #00D4FF;"/>
 
 <br/>
 
