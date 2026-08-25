@@ -30,23 +30,24 @@
 <a href="https://github.com/HuzefaRampurawala53"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:rampurawalahuzefa6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
----
+----
 
 ## 🚀 Featured Projects
+
+<div align="center">
 
 <a href="https://github.com/HuzefaRampurawala53/office-alert">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzefaRampurawala53&repo=office-alert&theme=tokyonight&hide_border=true" width="48%"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" width="48%"/>
+<a href="https://github.com/Husaink04/AssetOrbit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Husaink04&repo=AssetOrbit&theme=tokyonight&hide_border=true" width="48%"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" width="48%"/>
+<a href="https://github.com/HuzefaRampurawala53/Carkie">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzefaRampurawala53&repo=Carkie&theme=tokyonight&hide_border=true" width="48%"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true" width="48%"/>
-</a>
+
+</div>
 
 ---
 
