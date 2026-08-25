@@ -36,14 +36,8 @@
 
 <div align="center">
 
-<a href="https://github.com/HuzefaRampurawala53/office-alert">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzefaRampurawala53&repo=office-alert&theme=tokyonight&hide_border=true" width="48%"/>
-</a>
-
-
-<a href="https://github.com/HuzefaRampurawala53/Carkie">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuzefaRampurawala53&repo=Carkie&theme=tokyonight&hide_border=true" width="48%"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=HuzefaRampurawala53&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=HuzefaRampurawala53&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 
 </div>
 
@@ -124,7 +118,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HuzefaRampurawala53&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HuzefaRampurawala53&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 <img src="https://streak-stats.demolab.com?user=HuzefaRampurawala53&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/>
