@@ -53,12 +53,12 @@
 
 <div align="center">
 
-### 📱 Office Alert
+### 🧑‍💻 Leet Code
 
-**Real-time Notification System**
-Node.js • Full Stack • Real-time Notifications
+**MY Leetcode Journey**
+Python Leetcode solutions
 
-<a href="https://github.com/HuzefaRampurawala53/office-alert">
+<a href="https://github.com/HuzefaRampurawala53/Leetcode-Solutions">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Office Alert Repository"/>
 </a>
 
